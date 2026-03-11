@@ -52,7 +52,7 @@ When opening the email, several elements stand out right away.
 | Signal | Detail |
 |--------|--------|
 | Proton branding copied | Logo and layout mimicked |
-| Fake security alert | "New app has access to your data" |
+| Fake security alert | "New app has access to your Mail data" |
 | Single action button | "Security Portal" — creates urgency |
 | Proton authentication warning | Displayed at the top of the email |
 
